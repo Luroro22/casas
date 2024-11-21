@@ -230,7 +230,7 @@ footer {
     bottom: 0;
     height: auto;
     width: 21%;
-    background: url('Images/logoBlur1left.png') no-repeat center center;
+    background: url('images/logoBlur1left.png') no-repeat center center;
     background-size: contain;
     
     filter: blur(5px);
@@ -245,7 +245,7 @@ footer {
     bottom: 0;
     height: auto;
     width: 24%;
-    background: url('Images/logobluright.png') no-repeat center center;
+    background: url('images/logobluright.png') no-repeat center center;
     background-size: 120%;
     
     filter: blur(5px);
